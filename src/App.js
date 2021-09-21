@@ -40,7 +40,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>🎼 Musicala - Top Chartbuster Music</h1>
+      <h1>🎼 Musicala - Top chartbuster music</h1>
       <p>Select the genre to get started</p>
 
       <div>
